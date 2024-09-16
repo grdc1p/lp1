@@ -22,6 +22,7 @@ do{
 }
 
 while (tentativas > 0)
+   alert(`Suas tentativas acabaram! O número correto era: ${pegaNumeroAleatorio}`);
 
 }
 
